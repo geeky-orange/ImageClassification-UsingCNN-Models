@@ -90,11 +90,11 @@ training as shown in the figures.
 <p float="left" align="center">
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:20%; "/>
 
-<img src="/Users/mubeen/Library/CloudStorage/OneDrive-TheUniversityofHongKong/HKU/Year3_Sem1/COMP3340-DeepLearning/Group Project/Code/ImageClassification-UsingCNN-Models/images/Screenshot 2023-01-22 at 7.55.14 PM.png" alt="graph" style="width:20%;"/>
+<img src="./images/Screenshot 2023-01-22 at 7.55.14 PM.png" alt="graph" style="width:20%;"/>
 
-<img src="/Users/mubeen/Library/CloudStorage/OneDrive-TheUniversityofHongKong/HKU/Year3_Sem1/COMP3340-DeepLearning/Group Project/Code/ImageClassification-UsingCNN-Models/images/Screenshot 2023-01-22 at 7.55.34 PM.png" alt="graph" style="width:20%; "/>
+<img src="./images/Screenshot 2023-01-22 at 7.55.34 PM.png" alt="graph" style="width:20%; "/>
 
-<img src="/Users/mubeen/Library/CloudStorage/OneDrive-TheUniversityofHongKong/HKU/Year3_Sem1/COMP3340-DeepLearning/Group Project/Code/ImageClassification-UsingCNN-Models/images/Screenshot 2023-01-22 at 7.55.52 PM.png" alt="graph" style="width:20%;"/>
+<img src="./images/Screenshot 2023-01-22 at 7.55.52 PM.png" alt="graph" style="width:20%;"/>
 
 </p>
 
