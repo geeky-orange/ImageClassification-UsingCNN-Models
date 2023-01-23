@@ -182,7 +182,7 @@ network. Therefore, since the regularization parameter
 is p(1-p) in equation therefor maximum is at p = 0.5
 
 <p align='center'>
-<img src="./images/Screenshot 2023-01-22 at 8.20.17 PM.png
+<img src="./images/Screenshot 2023-01-22%20at%208.20.17%20PM.png
 " alt="drawing" style="display:block; margin-left:auto; margin-right:auto"/>
 <br>
 </p>
@@ -192,7 +192,7 @@ layer dropout have successfully reduced from 100.00%
 to 98.42%, as shown in Figure 9. 
 
 <p align='center'>
-<img src="./images/Screenshot 2023-01-22 at 8.22.53 PM.png
+<img src="./images/Screenshot%202023-01-22%20at%208.22.53%20PM.png
 " alt="drawing" style="width: 250px; display:block; margin-left:auto; margin-right:auto"/>
 <br>
 </p>
@@ -218,7 +218,7 @@ two layers of AlexNet. The result was unexpected.
 
 
 <p align='center'>
-<img src="./images/Screenshot 2023-01-22 at 8.26.00 PM.png
+<img src="./images/Screenshot 2023-01-22%20at%208.26.00%20PM.png
 " alt="drawing" style="width: 250px; display:block; margin-left:auto; margin-right:auto"/>
 <br>
 </p>
