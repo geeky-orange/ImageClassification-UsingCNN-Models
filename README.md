@@ -87,12 +87,14 @@ the learning rate respectively as they yield the highest
 test accuracy and average verification accuracy after
 training as shown in the figures.
 
-<p float="left">
+<p align="center" float="left">
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px; "/>
 
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
+</p>
 
-<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
+<p align="center" float="left">
+<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px; "/>
 
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
 </p>
