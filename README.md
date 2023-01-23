@@ -98,14 +98,77 @@ training as shown in the figures.
 
 </p>
 
-<!-- <p align="center" float="left">
 
-</p> -->
+<h3> Numbers of epochs </h3>
+<hr>
 
 
-<!-- <p display:'inline'>
+Number of epochs means the number of times the
+model are trained against the entire testing set of the
+dataset. In Figure 6, we have selected all four models
+Since the size of the dataset is relatively small and we
+do not requires large number of epochs for classification, as it will easily overfit if we opt for a epochs over
+50.
+Therefore, we opted for 40, 27, 43 and 25 for VGG,
+ResNet, DenseNet and AlexNet respectively.
 
-</p> -->
 
+
+<h3> Accuracy </h3>
+<hr>
+
+All four baseline models are converged. Table 1
+has summarized the testing and validation accuracy
+and number of parameters of all four baseline models that we have selected.
+
+<p float="left" align="center">
+<img src="./images/Screenshot 2023-01-22 at 8.02.53 PM.png" alt="graph" style="width:20%; "/>
+
+<img src="./images/Screenshot 2023-01-22 at 8.03.12 PM.png" alt="graph" style="width:20%;"/>
+
+</p>
+
+DenseNet-121 perform the
+best among the four with highest validation accuracy of 83.32% and the lowest number of parameter of 7.98M.
+Interestingly, the well-known RetNet and DenseNet do
+not preform well in this experiment as the testing and
+validation accuracy of these models are relatively lower
+than AlexNet and VGG. We will continue to optimise
+these two models and aim for getting a better accuracy.
+It is worth to note that the testing accuracy of
+AlexNet reaches 100.00% on only 35 epochs. We believe that through reducing over-fitting in AlexNet, the
+model will reach a higher validation accuracy and it
+may become compatible with DenseNet-121.
+
+<p align='center'>
+<img src="./images/Screenshot%202023-01-22%20at%208.06.09%20PM.png" alt="drawing" style="width:250px; display:block; margin-left:auto; margin-right:auto"/>
+<br>
+</p>
+
+
+<h2> Improvements </h2>
+
+We try to two methods that may
+increase the validation accuracy and reduce the number of parameter in our model, which includes layer
+dropout and model pruning. We use AlexNet, the
+model that we determined that it will have a high potential for improvement, with batch size of 10 and initial learning rate as 103 for optimisation. We will fix
+the hyperparameters in order to maintain the network
+structure during the optimisation process and have a
+fair comparison on the optimisation result.
+<BR>
+<h3>  Reduce over-fitting: Layer dropout </h3>
+<hr>
+
+
+To reduce over-fitting in AlexNet, we have applied
+layer dropout, a regularization method that approximates training a large number of neural networks with
+different architectures in parallel by dropping out nodes
+randomly with probability p on selected layers in the
+network [3] as show in Figure 8.
+
+<p align='center'>
+<img src="./images/Screenshot%202023-01-22%20at%2008.11.28%20PM" alt="drawing" style="width:250px; display:block; margin-left:auto; margin-right:auto"/>
+<br>
+</p>
 
 
