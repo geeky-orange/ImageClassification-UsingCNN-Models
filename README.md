@@ -182,8 +182,7 @@ network. Therefore, since the regularization parameter
 is p(1-p) in equation therefor maximum is at p = 0.5
 
 <p align='center'>
-<img src="./images/Screenshot 2023-01-22%20at%208.20.17%20PM.png
-" alt="drawing" style="display:block; margin-left:auto; margin-right:auto"/>
+<img src="./images/Screenshot 2023-01-22 at 8.20.17 PM.png" alt="drawing" style="display:block; margin-left:auto; margin-right:auto"/>
 <br>
 </p>
 
