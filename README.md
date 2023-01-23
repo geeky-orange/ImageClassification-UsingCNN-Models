@@ -91,13 +91,15 @@ training as shown in the figures.
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px; "/>
 
 <img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
+
+<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
+
+<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
 </p>
 
 
 <!-- <p display:'inline'>
-<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
 
-<img src="./images/Screenshot 2023-01-22 at 7.31.07 PM.png" alt="graph" style="width:250px;"/>
 </p> -->
 
 
