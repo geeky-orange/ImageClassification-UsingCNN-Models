@@ -69,9 +69,10 @@ among the models after testing. A batch size of 32 is
 used for VGG as it can achieve optimal accuracy. Different batch sizes are used to facilitate fair comparison
 among the models to show their optimal results.<br>
 
-
+<p align='center'>
 <img src="./images/Screenshot%202023-01-22%20at%207.17.58%20PM.png" alt="drawing" style="width:250px; display:block; margin-left:auto; margin-right:auto"/>
 <br>
+</p>
 
 <h3> Initial learning rate </h3>
 <hr>
